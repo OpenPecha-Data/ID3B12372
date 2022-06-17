@@ -1,0 +1,104 @@
+id: ID3B12372
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:54:13.504417'
+last_modified: '2022-06-17T12:54:13.504427'
+parser: null
+source_metadata:
+  title: Mahāmudrā Series
+  language: fr
+  description: 'Lotsawa House presents the following texts on the subject of Mahāmudrā
+    (phyag chen) or the ''Great Seal'':'
+  volume:
+    f8200:
+      title: Memorandum on the Subject of Mahāmudrā and Dzogchen Instructions
+      base_file: f8200.txt
+      order: 1
+      parent: Advice
+    f8006:
+      title: Mahāmudrā Preliminaries, Main Part & Conclusion
+      base_file: f8006.txt
+      order: 2
+      parent: Advice
+    f9FF1:
+      title: 'Mahāmudrā: the Swift Way to Become a Lord of Realization'
+      base_file: f9FF1.txt
+      order: 3
+      parent: Advice
+    f2122:
+      title: The Kusāli's Instruction on the Nature of Mind
+      base_file: f2122.txt
+      order: 4
+      parent: Advice
+    f3318:
+      title: A Way of Settling into the Realization of Mind’s Essence
+      base_file: f3318.txt
+      order: 5
+      parent: Advice
+    f11CC:
+      title: 'From the Mahāmudrā Preliminary Practices: Continuous Integration with
+        Ground, Path, and Fruition'
+      base_file: f11CC.txt
+      order: 6
+      parent: Advice
+    f2D68:
+      title: 'Naturally Liberating Whatever You Meet: A Concise Instruction for Realizing
+        the Nature of Mind'
+      base_file: f2D68.txt
+      order: 7
+      parent: Advice
+    fD0E7:
+      title: Verses to Remove Hindrances and Sustain Realization of the Nature of
+        Mind
+      base_file: fD0E7.txt
+      order: 8
+      parent: Advice
+    f14F8:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      base_file: f14F8.txt
+      order: 9
+      parent: Advice
+    f39FC:
+      title: Instructions on the Fivefold Mahāmudrā
+      base_file: f39FC.txt
+      order: 10
+      parent: Advice
+    fE9B9:
+      title: Pointing Out Instruction
+      base_file: fE9B9.txt
+      order: 11
+      parent: Advice
+    f39DC:
+      title: The Ganges Mahāmudrā Instructions
+      base_file: f39DC.txt
+      order: 12
+      parent: Advice
+    f556B:
+      title: Aspiration of the Mahāmudrā of Definitive Meaning
+      base_file: f556B.txt
+      order: 13
+      parent: Aspiration Prayers
+    fBC69:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      base_file: fBC69.txt
+      order: 14
+      parent: Commentaries
+    f3483:
+      title: The Concise Mahāmudrā Preliminaries Arranged for Recitation
+      base_file: f3483.txt
+      order: 15
+      parent: Preliminaries
+    f759A:
+      title: 'The Excellent Path of Definitive Meaning: An Unmistaken Expression of
+        the Definitive Mahāmudrā'
+      base_file: f759A.txt
+      order: 16
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
